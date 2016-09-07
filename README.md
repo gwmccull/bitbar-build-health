@@ -12,4 +12,5 @@ UNKNOWN/No VPN Connection: ⚠️
 4. Open `build-health.1m.js` and edit the first line to point to your Node directory
   1. if you are using NVM, you can find the directory by running `nvm which default`
   2. if you are not using NVM, it will probably be something like `/usr/local/bin/node`
-5. click on the BitBar icon and click `Refresh All` to load the plugin
+5. Set executable permissions to 'build-health.1m.js'
+6. click on the BitBar icon and click `Refresh All` to load the plugin
